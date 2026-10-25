@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-light.svg">
+    <img src="assets/logo-dark.svg" alt="Nowhere in Particular" width="320">
+  </picture>
+</p>
+
 # Nowhere in Particular: downloads
 
 A calm exploration game set in real places, built from open data.
