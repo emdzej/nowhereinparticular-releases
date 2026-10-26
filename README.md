@@ -15,11 +15,11 @@ This repository holds only the public downloads, attached to its
 
 | Download | What |
 |---|---|
-| `nowhereinparticular-<version>-<platform>.zip` | The game's free demo (Głowno, Poland) for macOS, Windows and Linux |
-| `nowhereinparticular-tools-<version>-<platform>.zip` | The map editor and the mod tools, a workspace with Głowno ([guide](https://nowhereinparticular.pl/guide/editor)) |
-| `hello-mods-<version>.zip` | An example mod to start from ([mods](https://nowhereinparticular.pl/docs/mods)) |
-| `nip-roam-<version>-<platform>` | Your own roam server: host your own, like in the old days, no cloud required |
-| `SHA256SUMS.txt` | Checksums of every file in the release |
+| `nowhereinparticular-demo-<version>-<platform>.zip` (`.tar.gz` for Linux) | The game's free demo (Głowno, Poland) for macOS, Windows and Linux: the native game, its README says how to run it |
+| `nowhereinparticular-tools-<version>-<platform>.zip` (not in every release) | The map editor and the mod tools, a workspace with Głowno ([guide](https://nowhereinparticular.pl/guide/editor)) |
+| `hello-mods-<version>.zip` (not in every release) | An example mod to start from ([mods](https://nowhereinparticular.pl/docs/mods)) |
+| `nip-roam-<version>-<platform>` (not in every release) | Your own roam server: host your own, like in the old days, no cloud required |
+| `SHA256SUMS` | Checksums of every file in the release |
 
 The latest of each: `https://github.com/emdzej/nowhereinparticular-releases/releases/latest`.
 
